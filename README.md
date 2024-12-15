@@ -23,4 +23,4 @@ node .
 - Only change the token , clientid and the guildid to your
 
 ## Support
-[![My Discord (1125062044463411211)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/1125062044463411211)
+[![Contact Me (1125062044463411211)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/1125062044463411211)
